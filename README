@@ -6,12 +6,13 @@
 
 	make
 
-	Requires Mike McCauley’s bcm2835 library (Thanks!) and thanks to
-	Eduardo Steinhorst for his I2C repeated start patch.
+	Requires Mike McCauley’s bcm2835 library
+	http://www.airspayce.com/mikem/bcm2835/
+	(Thanks!) and thanks to Eduardo Steinhorst for his I2C repeated start patch.
 
   Copyright (C) 2013 Mike Strean
 
-  mlx is free software; you can redistribute it and/or modify
+  piir is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation; either version 2 of the License, or
   (at your option) any later version.
