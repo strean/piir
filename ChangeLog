@@ -1,0 +1,6 @@
+2013-12-27  Mike Strean  <mike@strean.com>
+
+	* piir: initial version.
+
+		1 st Version. Not 100% math or sensor: seeing odd values
+			in first two columns. Occasional inf values on start.
